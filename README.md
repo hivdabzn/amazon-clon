@@ -16,3 +16,4 @@ Amazon Clone projemin bir önizlemesi yukarıdaki gifte yer almaktadır.
 
 Saygılarımla
 # amazonclonee
+# amazonclonee
